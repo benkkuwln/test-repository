@@ -11,3 +11,29 @@ Many thanks to this <i>folk</i>
 <img src="https://www.cheatsheet.com/wp-content/uploads/2022/04/Better-Call-Sauls-Nacho-Vargas-Michael-Mando-sits-on-his-knees-with-duct-tape-over-his-mouth.jpg" />
 
 <b>Don Eladio will be pleased with this information</b>, <strike>he has served his purpose</strike>.
+
+Nacho Varga
+<ul>
+  <li>Vaas</li>
+  <li>No</li>
+</ul>
+
+Story
+
+<ol>
+  <li>good kid m.A.A.d cartel</li>
+  <li>Betrayed</li><br>
+ 
+Personality
+
+<ol>
+  <li>Under pressure tanker</li>
+  <li>Smart & sharp</li>
+    <ul>
+      <li>Loves his papa</li>
+    </ul>
+  <li>Careful planner</li>
+</ol>
+<ul>
+  <li>Self respectful</li>
+</ul>
